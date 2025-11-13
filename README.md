@@ -1,12 +1,9 @@
 # Ex.No.10
-Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
-
+# Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 ## Date:
-## Reg. No.
-
+## Reg. No: 212222230123
 ## Aim:
 To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
-
 ## Procedure:
 ### Step 1: 
 Introduction to Prompt Patterns,Before generating content, the following prompt patterns are explored:
@@ -24,12 +21,10 @@ Extending the narrative or analysis logically to add depth and continuity to the
 Presenting multiple possible actions or outcomes and instructing the AI to pick one logically.
 ### 7. Semantic Filtering:
 Applying filters to control tone, writing style, and factual rigor (e.g., “Write this in a formal and analytical tone.”)
-
 ### Step 2:
 Choosing the Content Type,For this experiment, two different content generation scenarios were selected to test the model’s adaptability to both factual and creative contexts:
 1. Case Study on Business Success
 2. Creative Writing – Sci-Fi Short Story
-
 ### Step 3:
 Creating and Refining Prompts
 ### Phase 1: Basic Prompts
@@ -42,12 +37,10 @@ Then, progressively apply advanced techniques:
 - Decision-Making: “Should the startup focus on sustainability or technology innovation? Choose one and justify.”
 - Tail Generation: “Extend the story by describing how the colony faces its first major crisis.”
 - Semantic Filtering: “Rewrite this in a professional and report-like tone.”
-
 ### Step 4: 
 Generating and Refining Outputs
 use iterative refinement to improve the generated outputs:
 - For reports or case studies: add factual details, market data, and structure.
-
 - For creative works: enhance storytelling, character depth, and narrative flow.
 ### Step 5: 
 Review and Evaluation
